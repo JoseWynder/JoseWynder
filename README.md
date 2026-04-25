@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:e61c9b,100:10002B&text=Olá%20👋,%20Meu%20nome%20é%20José%20Wynder&fontSize=35&fontAlignY=80&fontColor=ffffff"/>
-<div align="center" ><h3><code><b>Engenharia de Software</b></code></h3></div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:e61c9b,100:10002B&text=Olá%20👋,%20Meu%20nome%20é%20José%20Wynder&fontSize=35&fontAlignY=80&fontColor=ffffff&animation=fadeIn&strokeWidth=1&stroke=0D1117"/>
+<div align="center" ><h3><code><b> Engenharia de Software </b></code></h3></div>
 
 <br><br>
 
@@ -86,7 +86,7 @@ Na prática, utilizo projetos próprios como principal meio de evolução, com f
 </p>
 
 <br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
 
@@ -115,4 +115,4 @@ Na prática, utilizo projetos próprios como principal meio de evolução, com f
   <img src="https://streak-stats.demolab.com?user=josewynder&theme=omni&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" height="156" alt="streak graph" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:e61c9b,100:10002B"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:e61c9b,100:10002B&reverse=true"/>
