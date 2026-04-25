@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:e61c9b,100:10002B&text=Olá%20👋,%20Meu%20nome%20é%20José%20Wynder&fontSize=35&fontAlignY=80&fontColor=ffffff&animation=fadeIn&strokeWidth=1&stroke=0D1117"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:e61c9b,100:10002B&text=Olá%20👋,%20Meu%20nome%20é%20José%20Wynder&fontSize=36&fontAlignY=80&fontColor=f5f5f5&animation=fadeIn&strokeWidth=1&stroke=0D1117"/>
 <div align="center" ><h3><code><b> Engenharia de Software </b></code></h3></div>
 
 <br><br>
