@@ -3,7 +3,7 @@
 
 <br><br>
 
-#### Bem-vindo ao meu perfil do GitHub.  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+#### Bem-vindo ao meu perfil do GitHub.  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
 
 Sou estudante de Engenharia de Software (5º semestre), com foco em desenvolvimento backend e interesse em construir aplicações que sejam fáceis de evoluir, seguras e com uma estrutura clara.
 
@@ -60,7 +60,7 @@ Click to view the full readme in English: [README_ENGLISH.md](https://github.com
 <br>
 
 ### 📚 Meus estudos 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
 
 <br>
 
@@ -81,7 +81,7 @@ Na prática, utilizo projetos próprios como principal meio de evolução, com f
 <p>
   <img 
     src="https://skillicons.dev/icons?i=java,spring,postgresql,mongodb,docker,aws,git,github,idea,postman&theme=dark&perline=10" 
-    width="500"
+    width="450"
   />
 </p>
 
