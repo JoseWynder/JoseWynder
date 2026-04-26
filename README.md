@@ -86,7 +86,8 @@ Na prática, utilizo projetos próprios como principal meio de evolução, com f
 </p>
 
 <br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+##
 
 <br>
 
