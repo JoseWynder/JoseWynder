@@ -1,4 +1,4 @@
-<img src="./assets/layout/header.svg" alt="Banner with the text 'Hi, my name is José Wynder'" width="100%" />
+<img src="./assets/layout/header-en.svg" alt="Banner with the text 'Hi, my name is José Wynder'" width="100%" />
 <h3 align="center"><code> Software Engineering </code></h3>
 
 <br><br>
@@ -61,7 +61,7 @@ In practice, I use personal projects as my main way of improving, focusing on st
 <br>
 
 <div align="center">
-  <img src="./assets/layout/typing.svg" alt="Backend developer introduction and invitation to connect!" />
+  <img src="./assets/layout/typing-en.svg" alt="Backend developer introduction and invitation to connect!" />
 </div> 
 
 <br>
