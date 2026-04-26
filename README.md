@@ -12,10 +12,10 @@ Tenho uma abordagem prática de aprendizado, utilizando projetos próprios para 
 <details>
   <summary>🌐 Click here to read in English</summary><br>
   <p>
-    I am a 5th-semester Software Engineering student focused on backend development and interested in building applications that are easy to evolve, secure, and have a clear structure.
+    I’m a Software Engineering student (5th semester), focused on backend development and interested in building applications that are easy to evolve, secure, and structured in a clear way.
   </p>
   <p>
-    I have a hands-on learning approach, using my own projects to explore everything from modeling to application deployment. Throughout this process, I have developed a greater concern for code organization, testing, and clarity in technical decisions. My interest lies in improving my ability to build well-structured systems, understanding not only how to implement them, but also why certain choices are made.
+    I take a hands-on approach to learning, using personal projects to explore everything from modeling to deployment. Throughout this process, I’ve been developing a stronger focus on code organization, testing, and clarity in technical decisions. My goal is to grow in building well-structured systems, understanding not only how to implement solutions, but also why certain choices are made.
   </p>
   <p>
     Click to view the full readme in English: <a href="./README_en.md">README_ENGLISH.md</a>
