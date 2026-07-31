@@ -5,7 +5,7 @@
 
 #### Welcome to my GitHub profile.  <img src="./assets/images/computer-illustration.png" alt="An illustration of a computer" width="350px" align="right" />
 
-I’m a Software Engineering student (5th semester), focused on backend development and interested in building applications that are easy to evolve, secure, and structured in a clear way.
+I’m a Software Engineering student (6th semester), focused on backend development and interested in building applications that are easy to evolve, secure, and structured in a clear way.
 
 I take a hands-on approach to learning, using personal projects to explore everything from modeling to deployment. Throughout this process, I’ve been developing a stronger focus on code organization, testing, and clarity in technical decisions. My goal is to grow in building well-structured systems, understanding not only how to implement solutions, but also why certain choices are made.
 
